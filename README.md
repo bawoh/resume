@@ -1,16 +1,14 @@
-# Portfolio Website
+# Professional Resume Website
 
-Personal portfolio website for Bayo Augustine Awoh.
+A modern, responsive resume website for Bayo Augustine Awoh, IT Professional.
 
-## Pages
-- Resume / Home
-- Projects
+## Features
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+- **Modern Design**: Clean, professional interface with subtle animations
+- **Fully Responsive**: Works perfectly on desktop, tablet, and mobile
+- **SEO Optimized**: Semantic HTML and proper meta tags
+- **Accessibility**: ARIA labels and keyboard navigation support
+- **Interactive Elements**: Smooth scrolling, form validation, animations
+- **Performance**: Optimized assets and efficient code
 
-## Deployment
-Ready for GitHub Pages or Netlify.
-
+## Project Structure
